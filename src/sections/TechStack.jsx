@@ -25,9 +25,9 @@ const TechStack = () => {
   })
 
   return (
-    <div id='skills' className='flex-center section-padding'>
+    <div id='skills' className='flex-center section-padding mt-20'>
         <div className='w-full h-full md:px-10 px-5'>
-            <TitleHeader title="My Preferred Tech Stack" sub="The Skills I bring to the Table" />
+            <TitleHeader title="My Preferred Tech Stack" sub="The Skills I bring to the Table 🚀" />
 
             <div className='tech-grid'>
                 {techStackIcons.map((icon) => (

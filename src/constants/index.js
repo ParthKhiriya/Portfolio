@@ -1,20 +1,20 @@
 const navLinks = [
   {
-    name: "Work",
+    name: "Projects",
     link: "#work",
   },
+  // {
+  //   name: "Experience",
+  //   link: "#experience",
+  // },
   {
-    name: "Experience",
-    link: "#experience",
-  },
-  {
-    name: "Skills",
+    name: "TechStack",
     link: "#skills",
   },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
-  },
+  // {
+  //   name: "Testimonials",
+  //   link: "#testimonials",
+  // },
 ];
 
 const words = [
@@ -248,24 +248,24 @@ const testimonials = [
 ];
 
 const socialImgs = [
+  // {
+  //   name: "Instagram",
+  //   url: "https://www.instagram.com/",
+  //   imgPath: "/images/insta.png",
+  // },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/parth_khiriya/",
     imgPath: "/images/insta.png",
   },
-  {
-    name: "Github",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "X",
-    url: "https://www.x.com/",
-    imgPath: "/images/x.png",
-  },
+  // {
+  //   name: "Github",
+  //   url: "https://www.x.com/",
+  //   imgPath: "/images/gh.png",
+  // },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/",
+    url: "www.linkedin.com/in/parth-khiriya-a78ba828a",
     imgPath: "/images/linkedin.png",
   },
 ];
