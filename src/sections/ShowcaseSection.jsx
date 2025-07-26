@@ -38,11 +38,11 @@ const ShowcaseSection = () => {
                 {/* Left Side */}
                 <div className='first-project-wrapper' ref={project1Ref}>
                     <div className='image-wrapper'>
-                        <img src="/images/QuickChat.png" alt="Ryde" />
+                        <img src="/images/Mojito.png" alt="Ryde" />
                     </div>
                     <div className='text-content'>
-                        <h2>A Fully Functional Chat App, where user can chat with Friends, Family etc.</h2>
-                        <p className="text-white-50 md:text-xl">An app built with React, TailwindCSS, and Socket.io for a fast, user-friendly experience.</p>
+                        <h2>Velvet Pour - A Fully Animated Website, with Buttery Smooth Animations and a Modern UI</h2>
+                        <p className="text-white-50 md:text-xl">A website built with React, TailwindCSS, and GSAP for a smooth, user-friendly experience.</p>
                     </div>
                 </div>
 
@@ -56,9 +56,9 @@ const ShowcaseSection = () => {
                     </div>
                     <div className="project" ref={project3Ref}>
                         <div className='image-wrapper bg-[#ffe7eb]'>
-                            <img src="/images/Mojito.png" alt="YC Directory" />
+                            <img src="/images/ThinkBoard.png" alt="ThinkBoard" />
                         </div>
-                        <h2>Mojito Website - A Fully Animated Website</h2>
+                        <h2>ThinkBoard - A One Stop Note Managing Web App</h2>
                     </div>
                 </div>
             </div>
